@@ -1,3 +1,3 @@
 # Furamon
 
-Godotエンジニア見習い。のそのそ頑張ります。
+Godot・Python・JS。のそのそ頑張ります。

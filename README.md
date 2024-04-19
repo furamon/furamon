@@ -1,3 +1,3 @@
 # Furamon
 
-Godot・Python・JS。のそのそ頑張ります。
+Java(Type)Script、Python、PHP、C#学習中。のそのそ頑張ります。
